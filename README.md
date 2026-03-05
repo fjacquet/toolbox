@@ -7,7 +7,7 @@
 
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/fjacquet)
 [![Open Source](https://img.shields.io/badge/Open-Source-brightgreen?style=for-the-badge&logo=github)](https://github.com/fjacquet)
-[![Dell Technologies](https://img.shields.io/badge/Dell-Technologies-007DB8?style=for-the-badge&logo=dell&logoColor=white)](https://www.dell.com)
+
 
 </div>
 
