@@ -40,6 +40,8 @@
 |------|-------------|------|
 | **360 Gantt** | Lightweight Gantt chart builder for infrastructure projects — no account required, exports to PNG | [![Launch](https://img.shields.io/badge/Launch-4CAF50?style=flat-square&logo=rocket)](https://fjacquet.github.io/360gantt/) |
 | **Converty** | Swiss-army converter for units, currencies, data sizes, and more — available in English and French | [![Launch](https://img.shields.io/badge/Launch-4CAF50?style=flat-square&logo=rocket)](https://fjacquet.github.io/converty/en/) |
+| **icons** | Render of react icons to svg - usefull for presentations | [![Launch](https://img.shields.io/badge/Launch-4CAF50?style=flat-square&logo=rocket)]([https://fjacquet.github.io/converty/en/](https://fjacquet.github.io/icons/)) |
+
 
 ---
 
