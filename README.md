@@ -28,6 +28,7 @@
 | **raidy** | RAID calculator and storage planner — usable capacity, rebuild time, and failure tolerance at a glance | [![Launch](https://img.shields.io/badge/Launch-4CAF50?style=flat-square&logo=rocket)](https://fjacquet.github.io/raidy/) |
 | **CEE Exporter** | Export Dell PowerStore CEPA/CEE metrics to external monitoring systems | [![Launch](https://img.shields.io/badge/Launch-4CAF50?style=flat-square&logo=rocket)](https://fjacquet.github.io/cee-exporter/) |
 | **Presizion** | Cluster refresh sizing wizard — import LiveOptics/RVTools exports and compare target server scenarios with vCPU ratios and SPECrate benchmarks | [![Launch](https://img.shields.io/badge/Launch-4CAF50?style=flat-square&logo=rocket)](https://fjacquet.github.io/presizion/) |
+| **Spec Search** | Search and browse SPEC CPU2017 benchmark results — quickly find and compare server performance data | [![Launch](https://img.shields.io/badge/Launch-4CAF50?style=flat-square&logo=rocket)](https://fjacquet.github.io/spec-search/) |
 
 ## Observability & Analytics
 
