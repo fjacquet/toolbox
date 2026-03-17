@@ -18,7 +18,7 @@
 | Tool | Description | Link |
 |------|-------------|------|
 | <img src="https://raw.githubusercontent.com/fjacquet/llmvram/main/public/logo.svg" width="16" height="16"> **llmvram** | Calculate VRAM requirements for running LLMs locally — supports quantization levels and multi-GPU setups | [![Launch](https://img.shields.io/badge/Launch-4CAF50?style=flat-square&logo=rocket)](https://fjacquet.github.io/llmvram/) |
-| **vGPU Advisor** | Select the right NVIDIA vGPU profile for your virtualization workload — matches VM requirements to GPU capacity | [![Launch](https://img.shields.io/badge/Launch-4CAF50?style=flat-square&logo=rocket)](https://fjacquet.github.io/vgpu-advisor/) |
+| <img src="https://raw.githubusercontent.com/fjacquet/vgpu-advisor/main/public/logo.svg" width="16" height="16"> **vGPU Advisor** | Select the right NVIDIA vGPU profile for your virtualization workload — matches VM requirements to GPU capacity | [![Launch](https://img.shields.io/badge/Launch-4CAF50?style=flat-square&logo=rocket)](https://fjacquet.github.io/vgpu-advisor/) |
 
 ## Storage & Infrastructure
 
