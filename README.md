@@ -24,12 +24,12 @@
 
 | Tool | Description | Link |
 |------|-------------|------|
-| **StorePredict** | Upload LiveOptics or RVTools exports and get instant Dell PowerStore / PowerVault / PowerFlex sizing recommendations | [![Launch](https://img.shields.io/badge/Launch-4CAF50?style=flat-square&logo=rocket)](https://store.srv1023035.hstgr.cloud/review) |
-| **raidy** | RAID calculator and storage planner — usable capacity, rebuild time, and failure tolerance at a glance | [![Launch](https://img.shields.io/badge/Launch-4CAF50?style=flat-square&logo=rocket)](https://fjacquet.github.io/raidy/) |
 | **CEE Exporter** | Export Dell PowerStore CEPA/CEE metrics to external monitoring systems | [![Launch](https://img.shields.io/badge/Launch-4CAF50?style=flat-square&logo=rocket)](https://fjacquet.github.io/cee-exporter/) |
-| **Presizion** | Cluster refresh sizing wizard — import LiveOptics/RVTools exports and compare target server scenarios with vCPU ratios and SPECrate benchmarks | [![Launch](https://img.shields.io/badge/Launch-4CAF50?style=flat-square&logo=rocket)](https://fjacquet.github.io/presizion/) |
-| **Spec Search** | Search and browse SPEC CPU2017 benchmark results — quickly find and compare server performance data | [![Launch](https://img.shields.io/badge/Launch-4CAF50?style=flat-square&logo=rocket)](https://fjacquet.github.io/spec-search/) |
 | **NetStack** | Dell Leaf-Spine network sizing calculator — plan spine/leaf topology, port counts, and uplink capacity | [![Launch](https://img.shields.io/badge/Launch-4CAF50?style=flat-square&logo=rocket)](https://fjacquet.github.io/netstack/) |
+| **Presizion** | Cluster refresh sizing wizard — import LiveOptics/RVTools exports and compare target server scenarios with vCPU ratios and SPECrate benchmarks | [![Launch](https://img.shields.io/badge/Launch-4CAF50?style=flat-square&logo=rocket)](https://fjacquet.github.io/presizion/) |
+| **raidy** | RAID calculator and storage planner — usable capacity, rebuild time, and failure tolerance at a glance | [![Launch](https://img.shields.io/badge/Launch-4CAF50?style=flat-square&logo=rocket)](https://fjacquet.github.io/raidy/) |
+| **Spec Search** | Search and browse SPEC CPU2017 benchmark results — quickly find and compare server performance data | [![Launch](https://img.shields.io/badge/Launch-4CAF50?style=flat-square&logo=rocket)](https://fjacquet.github.io/spec-search/) |
+| **StorePredict** | Upload LiveOptics or RVTools exports and get instant Dell PowerStore / PowerVault / PowerFlex sizing recommendations | [![Launch](https://img.shields.io/badge/Launch-4CAF50?style=flat-square&logo=rocket)](https://store.srv1023035.hstgr.cloud/review) |
 
 ## Observability & Analytics
 
