@@ -122,6 +122,21 @@
 <br><br>
 </td>
 </tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<br>
+<a href="https://github.com/fjacquet/san-conv/releases">
+  <img src="https://img.shields.io/badge/SAN-Conv-0078D4?style=for-the-badge&logo=cisco&logoColor=white" alt="san-conv">
+</a>
+<br><br>
+<a href="https://github.com/fjacquet/san-conv/releases"><b>san-conv</b></a>
+<br><br>
+<sub>Convert SAN fabric zoning configurations between Cisco MDS NX-OS and Brocade FOS formats — single Go binary, no runtime dependencies</sub>
+<br><br>
+</td>
+<td width="50%" align="center" valign="top">
+</td>
+</tr>
 </table>
 
 ---
