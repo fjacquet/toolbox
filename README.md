@@ -7,7 +7,7 @@
 
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/fjacquet)
 [![Open Source](https://img.shields.io/badge/Open-Source-brightgreen?style=for-the-badge&logo=github)](https://github.com/fjacquet)
-[![Tools](https://img.shields.io/badge/Tools-12+-0078D4?style=for-the-badge)](https://github.com/fjacquet)
+[![Tools](https://img.shields.io/badge/Tools-14+-0078D4?style=for-the-badge)](https://github.com/fjacquet)
 [![Client Side](https://img.shields.io/badge/Client--Side-No%20Telemetry-orange?style=for-the-badge)](https://github.com/fjacquet)
 
 *Click any icon to launch the tool*
@@ -111,6 +111,15 @@
 <br><br>
 </td>
 <td width="50%" align="center" valign="top">
+<br>
+<a href="https://fjacquet.github.io/vcf-sizer/">
+  <img src="https://img.shields.io/badge/VCF-Sizer-696CFF?style=for-the-badge&logo=vmware&logoColor=white" alt="VCF Sizer">
+</a>
+<br><br>
+<a href="https://fjacquet.github.io/vcf-sizer/"><b>VCF Sizer</b></a>
+<br><br>
+<sub>Size VMware Cloud Foundation 9.x deployments — compute, memory, and storage across Simple, HA, Stretch Cluster, and vSAN Max topologies</sub>
+<br><br>
 </td>
 </tr>
 </table>
