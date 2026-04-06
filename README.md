@@ -7,7 +7,7 @@
 
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/fjacquet)
 [![Open Source](https://img.shields.io/badge/Open-Source-brightgreen?style=for-the-badge&logo=github)](https://github.com/fjacquet)
-[![Tools](https://img.shields.io/badge/Tools-14+-0078D4?style=for-the-badge)](https://github.com/fjacquet)
+[![Tools](https://img.shields.io/badge/Tools-15+-0078D4?style=for-the-badge)](https://github.com/fjacquet)
 [![Client Side](https://img.shields.io/badge/Client--Side-No%20Telemetry-orange?style=for-the-badge)](https://github.com/fjacquet)
 
 *Click any icon to launch the tool*
@@ -135,6 +135,15 @@
 <br><br>
 </td>
 <td width="50%" align="center" valign="top">
+<br>
+<a href="https://fjacquet.github.io/os-sizer/">
+  <img src="https://img.shields.io/badge/OS-Sizer-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="OS Sizer">
+</a>
+<br><br>
+<a href="https://fjacquet.github.io/os-sizer/"><b>OS Sizer</b></a>
+<br><br>
+<sub>Size Red Hat OpenShift clusters — compute, memory, storage, GPU nodes, OpenShift Virtualization, and RHOAI across SNO, compact-3node, and standard-HA topologies</sub>
+<br><br>
 </td>
 </tr>
 </table>
