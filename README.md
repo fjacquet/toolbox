@@ -7,7 +7,7 @@
 
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/fjacquet)
 [![Open Source](https://img.shields.io/badge/Open-Source-brightgreen?style=for-the-badge&logo=github)](https://github.com/fjacquet)
-[![Tools](https://img.shields.io/badge/Tools-15+-0078D4?style=for-the-badge)](https://github.com/fjacquet)
+[![Tools](https://img.shields.io/badge/Tools-16+-0078D4?style=for-the-badge)](https://github.com/fjacquet)
 [![Client Side](https://img.shields.io/badge/Client--Side-No%20Telemetry-orange?style=for-the-badge)](https://github.com/fjacquet)
 
 *Click any icon to launch the tool*
@@ -145,6 +145,20 @@
 <sub>Size Red Hat OpenShift clusters — compute, memory, storage, GPU nodes, OpenShift Virtualization, and RHOAI across SNO, compact-3node, and standard-HA topologies</sub>
 <br><br>
 </td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<br>
+<a href="https://fjacquet.github.io/vsizer/">
+  <img src="https://fjacquet.github.io/vsizer/favicon.svg" width="64" height="64" alt="vsizer">
+</a>
+<br><br>
+<a href="https://fjacquet.github.io/vsizer/"><b>vsizer</b></a>
+<br><br>
+<sub>VMware cluster utilization reporter — turn an RVTools or Live Optics export into a factual per-cluster PowerPoint deck (physical/consumed GHz, CPU%/RAM%, vCPU allocation, DR-aware), 100% client-side</sub>
+<br><br>
+</td>
+<td width="50%"></td>
 </tr>
 </table>
 
