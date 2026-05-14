@@ -7,10 +7,12 @@
 
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/fjacquet)
 [![Open Source](https://img.shields.io/badge/Open-Source-brightgreen?style=for-the-badge&logo=github)](https://github.com/fjacquet)
-[![Tools](https://img.shields.io/badge/Tools-16+-0078D4?style=for-the-badge)](https://github.com/fjacquet)
+[![Tools](https://img.shields.io/badge/Tools-16-0078D4?style=for-the-badge)](https://github.com/fjacquet)
 [![Client Side](https://img.shields.io/badge/Client--Side-No%20Telemetry-orange?style=for-the-badge)](https://github.com/fjacquet)
 
 *Click any icon to launch the tool*
+
+**Jump to:** [🤖 AI & Language Models](#-ai--language-models) · [🗄️ Storage & Infrastructure](#-storage--infrastructure) · [📊 Observability & Analytics](#-observability--analytics) · [⚙️ Productivity](#-productivity)
 
 </div>
 
@@ -29,6 +31,8 @@
 <a href="https://fjacquet.github.io/llmvram/"><b>llmvram</b></a>
 <br><br>
 <sub>Calculate VRAM requirements for running LLMs locally — supports quantization levels and multi-GPU setups</sub>
+<br>
+<sup><i>LLM · GPU · Local</i></sup>
 <br><br>
 </td>
 <td width="50%" align="center" valign="top">
@@ -40,6 +44,8 @@
 <a href="https://fjacquet.github.io/vgpu-advisor/"><b>vGPU Advisor</b></a>
 <br><br>
 <sub>Select the right NVIDIA vGPU profile for your virtualization workload — matches VM requirements to GPU capacity</sub>
+<br>
+<sup><i>NVIDIA · vGPU · Virtualization</i></sup>
 <br><br>
 </td>
 </tr>
@@ -51,7 +57,7 @@
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/netstack/">
   <img src="https://fjacquet.github.io/netstack/favicon-32x32.png" width="64" height="64" alt="NetStack">
@@ -60,9 +66,11 @@
 <a href="https://fjacquet.github.io/netstack/"><b>NetStack</b></a>
 <br><br>
 <sub>Dell Leaf-Spine network sizing calculator — plan spine/leaf topology, port counts, and uplink capacity</sub>
+<br>
+<sup><i>Dell · Networking · Leaf-Spine</i></sup>
 <br><br>
 </td>
-<td width="50%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/presizion/">
   <img src="https://raw.githubusercontent.com/fjacquet/presizion/main/public/favicon.svg" width="64" height="64" alt="Presizion">
@@ -71,11 +79,11 @@
 <a href="https://fjacquet.github.io/presizion/"><b>Presizion</b></a>
 <br><br>
 <sub>Cluster refresh sizing wizard — import LiveOptics/RVTools exports and compare target server scenarios with vCPU ratios and SPECrate benchmarks</sub>
+<br>
+<sup><i>VMware · Sizing · RVTools</i></sup>
 <br><br>
 </td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/raidy/">
   <img src="https://fjacquet.github.io/raidy/favicon-32x32.png" width="64" height="64" alt="raidy">
@@ -84,9 +92,13 @@
 <a href="https://fjacquet.github.io/raidy/"><b>raidy</b></a>
 <br><br>
 <sub>RAID calculator and storage planner — usable capacity, rebuild time, and failure tolerance at a glance</sub>
+<br>
+<sup><i>Storage · RAID</i></sup>
 <br><br>
 </td>
-<td width="50%" align="center" valign="top">
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/spec-search/">
   <img src="https://raw.githubusercontent.com/fjacquet/spec-search/main/web/public/favicon.svg" width="64" height="64" alt="Spec Search">
@@ -95,11 +107,11 @@
 <a href="https://fjacquet.github.io/spec-search/"><b>Spec Search</b></a>
 <br><br>
 <sub>Search and browse SPEC CPU2017 benchmark results — quickly find and compare server performance data</sub>
+<br>
+<sup><i>SPEC · CPU · Benchmarks</i></sup>
 <br><br>
 </td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 <br>
 <a href="https://store.srv1023035.hstgr.cloud/review">
   <img src="https://img.shields.io/badge/Store-Predict-0078D4?style=for-the-badge&logo=dell&logoColor=white" alt="StorePredict">
@@ -108,9 +120,11 @@
 <a href="https://store.srv1023035.hstgr.cloud/review"><b>StorePredict</b></a>
 <br><br>
 <sub>Upload LiveOptics or RVTools exports and get instant Dell PowerStore / PowerVault / PowerFlex sizing recommendations</sub>
+<br>
+<sup><i>Dell · Storage · Sizing</i></sup>
 <br><br>
 </td>
-<td width="50%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/vcf-sizer/">
   <img src="https://img.shields.io/badge/VCF-Sizer-696CFF?style=for-the-badge&logo=vmware&logoColor=white" alt="VCF Sizer">
@@ -119,11 +133,13 @@
 <a href="https://fjacquet.github.io/vcf-sizer/"><b>VCF Sizer</b></a>
 <br><br>
 <sub>Size VMware Cloud Foundation 9.x deployments — compute, memory, and storage across Simple, HA, Stretch Cluster, and vSAN Max topologies</sub>
+<br>
+<sup><i>VMware · VCF · Sizing</i></sup>
 <br><br>
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 <br>
 <a href="https://github.com/fjacquet/san-conv/releases">
   <img src="https://img.shields.io/badge/SAN-Conv-0078D4?style=for-the-badge&logo=cisco&logoColor=white" alt="san-conv">
@@ -132,9 +148,11 @@
 <a href="https://github.com/fjacquet/san-conv/releases"><b>san-conv</b></a>
 <br><br>
 <sub>Convert SAN fabric zoning configurations between Cisco MDS NX-OS and Brocade FOS formats — single Go binary, no runtime dependencies</sub>
+<br>
+<sup><i>Cisco · Brocade · SAN · CLI</i></sup>
 <br><br>
 </td>
-<td width="50%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/os-sizer/">
   <img src="https://img.shields.io/badge/OS-Sizer-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="OS Sizer">
@@ -143,11 +161,11 @@
 <a href="https://fjacquet.github.io/os-sizer/"><b>OS Sizer</b></a>
 <br><br>
 <sub>Size Red Hat OpenShift clusters — compute, memory, storage, GPU nodes, OpenShift Virtualization, and RHOAI across SNO, compact-3node, and standard-HA topologies</sub>
+<br>
+<sup><i>Red Hat · OpenShift · Sizing</i></sup>
 <br><br>
 </td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/vsizer/">
   <img src="https://fjacquet.github.io/vsizer/favicon.svg" width="64" height="64" alt="vsizer">
@@ -155,10 +173,11 @@
 <br><br>
 <a href="https://fjacquet.github.io/vsizer/"><b>vsizer</b></a>
 <br><br>
-<sub>VMware cluster utilization reporter — turn an RVTools or Live Optics export into a factual per-cluster PowerPoint deck (physical/consumed GHz, CPU%/RAM%, vCPU allocation, DR-aware), 100% client-side</sub>
+<sub>Turn RVTools/Live Optics exports into per-cluster VMware utilization PowerPoint decks — capacity, utilization, DR-aware</sub>
+<br>
+<sup><i>VMware · RVTools · Reporting</i></sup>
 <br><br>
 </td>
-<td width="50%"></td>
 </tr>
 </table>
 
@@ -177,6 +196,8 @@
 <a href="https://fjacquet.github.io/cee-exporter/"><b>CEE Exporter</b></a>
 <br><br>
 <sub>Export Dell PowerStore CEPA/CEE metrics to external monitoring systems</sub>
+<br>
+<sup><i>Dell · PowerStore · Prometheus</i></sup>
 <br><br>
 </td>
 <td width="50%" align="center" valign="top">
@@ -188,6 +209,8 @@
 <a href="https://fjacquet.github.io/elk-sizer/"><b>ELK Sizer</b></a>
 <br><br>
 <sub>Right-size your Elastic stack — estimates nodes, storage, and heap based on daily ingest volume and retention</sub>
+<br>
+<sup><i>Elastic · Sizing</i></sup>
 <br><br>
 </td>
 </tr>
@@ -208,6 +231,8 @@
 <a href="https://fjacquet.github.io/360gantt/"><b>360 Gantt</b></a>
 <br><br>
 <sub>Lightweight Gantt chart builder for infrastructure projects — no account required, exports to PNG</sub>
+<br>
+<sup><i>Planning · Gantt</i></sup>
 <br><br>
 </td>
 <td width="33%" align="center" valign="top">
@@ -219,6 +244,8 @@
 <a href="https://fjacquet.github.io/converty/en/"><b>Converty</b></a>
 <br><br>
 <sub>Swiss-army converter for units, currencies, data sizes, and more — available in English and French</sub>
+<br>
+<sup><i>Conversion · i18n</i></sup>
 <br><br>
 </td>
 <td width="33%" align="center" valign="top">
@@ -230,6 +257,8 @@
 <a href="https://fjacquet.github.io/icons/"><b>Icons</b></a>
 <br><br>
 <sub>Render React icons to SVG — useful for presentations and documentation</sub>
+<br>
+<sup><i>React · Icons</i></sup>
 <br><br>
 </td>
 </tr>
