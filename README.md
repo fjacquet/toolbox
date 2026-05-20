@@ -7,7 +7,7 @@
 
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/fjacquet)
 [![Open Source](https://img.shields.io/badge/Open-Source-brightgreen?style=for-the-badge&logo=github)](https://github.com/fjacquet)
-[![Tools](https://img.shields.io/badge/Tools-16-0078D4?style=for-the-badge)](https://github.com/fjacquet)
+[![Tools](https://img.shields.io/badge/Tools-17-0078D4?style=for-the-badge)](https://github.com/fjacquet)
 [![Client Side](https://img.shields.io/badge/Client--Side-No%20Telemetry-orange?style=for-the-badge)](https://github.com/fjacquet)
 
 *Click any icon to launch the tool*
@@ -176,6 +176,21 @@
 <sub>Turn RVTools/Live Optics exports into per-cluster VMware utilization PowerPoint decks — capacity, utilization, DR-aware</sub>
 <br>
 <sup><i>VMware · RVTools · Reporting</i></sup>
+<br><br>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<br>
+<a href="https://fjacquet.github.io/vatlas/">
+  <img src="https://fjacquet.github.io/vatlas/favicon.svg" width="64" height="64" alt="vatlas">
+</a>
+<br><br>
+<a href="https://fjacquet.github.io/vatlas/"><b>vatlas</b></a>
+<br><br>
+<sub>Drop RVTools exports and explore a navigable VMware estate atlas — dashboard, inventory, allocation/DR, OS end-of-support, in-session trends — then export a shareable HTML report + PowerPoint deck. Installable, fully-offline PWA</sub>
+<br>
+<sup><i>VMware · RVTools · Reporting · PWA</i></sup>
 <br><br>
 </td>
 </tr>
