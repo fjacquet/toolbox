@@ -205,14 +205,14 @@
 <td width="50%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/cee-exporter/">
-  <img src="https://img.shields.io/badge/CEE-Exporter-0078D4?style=for-the-badge&logo=prometheus&logoColor=white" alt="CEE Exporter">
+  <img src="https://raw.githubusercontent.com/fjacquet/cee-exporter/main/public/favicon.svg" width="64" height="64" alt="cee-exporter">
 </a>
 <br><br>
-<a href="https://fjacquet.github.io/cee-exporter/"><b>CEE Exporter</b></a>
+<a href="https://fjacquet.github.io/cee-exporter/"><b>cee-exporter</b></a>
 <br><br>
-<sub>Export Dell PowerStore CEPA/CEE metrics to external monitoring systems</sub>
+<sub>Forward Dell PowerStore CEPA audit events as GELF to Graylog or native Windows EventLog — single static Go binary, no dependencies</sub>
 <br>
-<sup><i>Dell · PowerStore · Prometheus</i></sup>
+<sup><i>Dell · PowerStore · Graylog · CLI</i></sup>
 <br><br>
 </td>
 <td width="50%" align="center" valign="top">
