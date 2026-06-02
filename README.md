@@ -7,7 +7,7 @@
 
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/fjacquet)
 [![Open Source](https://img.shields.io/badge/Open-Source-brightgreen?style=for-the-badge&logo=github)](https://github.com/fjacquet)
-[![Tools](https://img.shields.io/badge/Tools-17-0078D4?style=for-the-badge)](https://github.com/fjacquet)
+[![Tools](https://img.shields.io/badge/Tools-20-0078D4?style=for-the-badge)](https://github.com/fjacquet)
 [![Client Side](https://img.shields.io/badge/Client--Side-No%20Telemetry-orange?style=for-the-badge)](https://github.com/fjacquet)
 
 *Click any icon to launch the tool*
@@ -22,7 +22,7 @@
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/llmvram/">
   <img src="https://fjacquet.github.io/llmvram/favicon.svg" width="64" height="64" alt="llmvram">
@@ -35,7 +35,7 @@
 <sup><i>LLM · GPU · Local</i></sup>
 <br><br>
 </td>
-<td width="50%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/vgpu-advisor/">
   <img src="https://img.shields.io/badge/vGPU-Advisor-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="vGPU Advisor">
@@ -46,6 +46,19 @@
 <sub>Select the right NVIDIA vGPU profile for your virtualization workload — matches VM requirements to GPU capacity</sub>
 <br>
 <sup><i>NVIDIA · vGPU · Virtualization</i></sup>
+<br><br>
+</td>
+<td width="33%" align="center" valign="top">
+<br>
+<a href="https://github.com/fjacquet/anki-maker">
+  <img src="https://img.shields.io/badge/Anki-Maker-2C82C9?style=for-the-badge&logo=anki&logoColor=white" alt="Anki Maker">
+</a>
+<br><br>
+<a href="https://github.com/fjacquet/anki-maker"><b>anki-maker</b></a>
+<br><br>
+<sub>Turn documents (PDF, DOCX, PPTX, TXT, MD) into Anki flashcards with Google Gemini — CLI and web UI, multi-language card output</sub>
+<br>
+<sup><i>AI · Gemini · Anki · CLI</i></sup>
 <br><br>
 </td>
 </tr>
@@ -226,6 +239,34 @@
 <sub>Right-size your Elastic stack — estimates nodes, storage, and heap based on daily ingest volume and retention</sub>
 <br>
 <sup><i>Elastic · Sizing</i></sup>
+<br><br>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<br>
+<a href="https://fjacquet.github.io/ppdd_exporter/">
+  <img src="https://img.shields.io/badge/PowerProtect%20DD-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="ppdd_exporter">
+</a>
+<br><br>
+<a href="https://fjacquet.github.io/ppdd_exporter/"><b>ppdd_exporter</b></a>
+<br><br>
+<sub>Prometheus exporter for Dell PowerProtect DD (Data Domain) — one process polls many appliances for capacity, dedup, MTree, and replication metrics. Single static Go binary</sub>
+<br>
+<sup><i>Dell · PowerProtect · Prometheus · CLI</i></sup>
+<br><br>
+</td>
+<td width="50%" align="center" valign="top">
+<br>
+<a href="https://fjacquet.github.io/pflex_exporter/">
+  <img src="https://img.shields.io/badge/PowerFlex-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="pflex_exporter">
+</a>
+<br><br>
+<a href="https://fjacquet.github.io/pflex_exporter/"><b>pflex_exporter</b></a>
+<br><br>
+<sub>Prometheus + OTLP exporter for Dell PowerFlex (Gen1 and Gen2) — multi-cluster, auto-detected generation, full Dell statistic set. Replaces the Python + Telegraf + InfluxDB stack. Single Go binary</sub>
+<br>
+<sup><i>Dell · PowerFlex · Prometheus · CLI</i></sup>
 <br><br>
 </td>
 </tr>
