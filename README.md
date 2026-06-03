@@ -206,6 +206,19 @@
 <sup><i>VMware · RVTools · Reporting · PWA</i></sup>
 <br><br>
 </td>
+<td width="33%" align="center" valign="top">
+<br>
+<a href="https://fjacquet.github.io/elk-sizer/">
+  <img src="https://fjacquet.github.io/elk-sizer/favicon.svg" width="64" height="64" alt="ELK Sizer">
+</a>
+<br><br>
+<a href="https://fjacquet.github.io/elk-sizer/"><b>ELK Sizer</b></a>
+<br><br>
+<sub>Right-size your Elastic stack — estimates nodes, storage, and heap based on daily ingest volume and retention</sub>
+<br>
+<sup><i>Elastic · Sizing</i></sup>
+<br><br>
+</td>
 </tr>
 </table>
 
@@ -230,21 +243,6 @@
 </td>
 <td width="50%" align="center" valign="top">
 <br>
-<a href="https://fjacquet.github.io/elk-sizer/">
-  <img src="https://fjacquet.github.io/elk-sizer/favicon.svg" width="64" height="64" alt="ELK Sizer">
-</a>
-<br><br>
-<a href="https://fjacquet.github.io/elk-sizer/"><b>ELK Sizer</b></a>
-<br><br>
-<sub>Right-size your Elastic stack — estimates nodes, storage, and heap based on daily ingest volume and retention</sub>
-<br>
-<sup><i>Elastic · Sizing</i></sup>
-<br><br>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-<br>
 <a href="https://fjacquet.github.io/ppdd_exporter/">
   <img src="https://img.shields.io/badge/PowerProtect%20DD-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="ppdd_exporter">
 </a>
@@ -256,6 +254,8 @@
 <sup><i>Dell · PowerProtect · Prometheus · CLI</i></sup>
 <br><br>
 </td>
+</tr>
+<tr>
 <td width="50%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/pflex_exporter/">
@@ -269,8 +269,6 @@
 <sup><i>Dell · PowerFlex · Prometheus · CLI</i></sup>
 <br><br>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/pscale_exporter/">
@@ -283,8 +281,6 @@
 <br>
 <sup><i>Dell · PowerScale · Prometheus · CLI</i></sup>
 <br><br>
-</td>
-<td width="50%" align="center" valign="top">
 </td>
 </tr>
 </table>
