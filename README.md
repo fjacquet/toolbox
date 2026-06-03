@@ -7,7 +7,7 @@
 
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/fjacquet)
 [![Open Source](https://img.shields.io/badge/Open-Source-brightgreen?style=for-the-badge&logo=github)](https://github.com/fjacquet)
-[![Tools](https://img.shields.io/badge/Tools-20-0078D4?style=for-the-badge)](https://github.com/fjacquet)
+[![Tools](https://img.shields.io/badge/Tools-21-0078D4?style=for-the-badge)](https://github.com/fjacquet)
 [![Client Side](https://img.shields.io/badge/Client--Side-No%20Telemetry-orange?style=for-the-badge)](https://github.com/fjacquet)
 
 *Click any icon to launch the tool*
@@ -268,6 +268,23 @@
 <br>
 <sup><i>Dell · PowerFlex · Prometheus · CLI</i></sup>
 <br><br>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<br>
+<a href="https://fjacquet.github.io/pscale_exporter/">
+  <img src="https://img.shields.io/badge/PowerScale-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="pscale_exporter">
+</a>
+<br><br>
+<a href="https://fjacquet.github.io/pscale_exporter/"><b>pscale_exporter</b></a>
+<br><br>
+<sub>Prometheus + OTLP exporter for Dell PowerScale (OneFS) — multi-cluster coverage of cluster, node, protocol, quota, snapshot, and capacity metrics, with CSM-compatible <code>powerscale_</code> naming. Single Go binary</sub>
+<br>
+<sup><i>Dell · PowerScale · Prometheus · CLI</i></sup>
+<br><br>
+</td>
+<td width="50%" align="center" valign="top">
 </td>
 </tr>
 </table>
