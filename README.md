@@ -7,7 +7,7 @@
 
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/fjacquet)
 [![Open Source](https://img.shields.io/badge/Open-Source-brightgreen?style=for-the-badge&logo=github)](https://github.com/fjacquet)
-[![Tools](https://img.shields.io/badge/Tools-24-0078D4?style=for-the-badge)](https://github.com/fjacquet)
+[![Tools](https://img.shields.io/badge/Tools-26-0078D4?style=for-the-badge)](https://github.com/fjacquet)
 [![Client Side](https://img.shields.io/badge/Client--Side-No%20Telemetry-orange?style=for-the-badge)](https://github.com/fjacquet)
 
 *Click any icon to launch the tool*
@@ -228,35 +228,7 @@
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
-<br>
-<a href="https://fjacquet.github.io/cee-exporter/">
-  <img src="https://raw.githubusercontent.com/fjacquet/cee-exporter/main/public/favicon.svg" width="64" height="64" alt="cee-exporter">
-</a>
-<br><br>
-<a href="https://fjacquet.github.io/cee-exporter/"><b>cee-exporter</b></a>
-<br><br>
-<sub>Forward Dell PowerStore CEPA audit events as GELF to Graylog or native Windows EventLog — single static Go binary, no dependencies</sub>
-<br>
-<sup><i>Dell · PowerStore · Graylog · CLI</i></sup>
-<br><br>
-</td>
-<td width="50%" align="center" valign="top">
-<br>
-<a href="https://fjacquet.github.io/ppdd_exporter/">
-  <img src="https://img.shields.io/badge/PowerProtect%20DD-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="ppdd_exporter">
-</a>
-<br><br>
-<a href="https://fjacquet.github.io/ppdd_exporter/"><b>ppdd_exporter</b></a>
-<br><br>
-<sub>Prometheus exporter for Dell PowerProtect DD (Data Domain) — one process polls many appliances for capacity, dedup, MTree, and replication metrics. Single static Go binary</sub>
-<br>
-<sup><i>Dell · PowerProtect · Prometheus · CLI</i></sup>
-<br><br>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/pflex_exporter/">
   <img src="https://img.shields.io/badge/PowerFlex-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="pflex_exporter">
@@ -269,22 +241,20 @@
 <sup><i>Dell · PowerFlex · Prometheus · CLI</i></sup>
 <br><br>
 </td>
-<td width="50%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 <br>
-<a href="https://fjacquet.github.io/pscale_exporter/">
-  <img src="https://img.shields.io/badge/PowerScale-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="pscale_exporter">
+<a href="https://fjacquet.github.io/pmax_exporter/">
+  <img src="https://img.shields.io/badge/PowerMax-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="pmax_exporter">
 </a>
 <br><br>
-<a href="https://fjacquet.github.io/pscale_exporter/"><b>pscale_exporter</b></a>
+<a href="https://fjacquet.github.io/pmax_exporter/"><b>pmax_exporter</b></a>
 <br><br>
-<sub>Prometheus + OTLP exporter for Dell PowerScale (OneFS) — multi-cluster coverage of cluster, node, protocol, quota, snapshot, and capacity metrics, with CSM-compatible <code>powerscale_</code> naming. Single Go binary</sub>
+<sub>Prometheus + OTLP exporter for Dell PowerMax — multi-array performance (array, FE/BE/RDF directors, storage groups, SRP) and capacity via the Unisphere REST API. Single Go binary</sub>
 <br>
-<sup><i>Dell · PowerScale · Prometheus · CLI</i></sup>
+<sup><i>Dell · PowerMax · Prometheus · CLI</i></sup>
 <br><br>
 </td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/pstore_exporter/">
   <img src="https://img.shields.io/badge/PowerStore-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="pstore_exporter">
@@ -297,22 +267,22 @@
 <sup><i>Dell · PowerStore · Prometheus · CLI</i></sup>
 <br><br>
 </td>
-<td width="50%" align="center" valign="top">
-<br>
-<a href="https://fjacquet.github.io/nbu_exporter/">
-  <img src="https://img.shields.io/badge/NetBackup-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="nbu_exporter">
-</a>
-<br><br>
-<a href="https://fjacquet.github.io/nbu_exporter/"><b>nbu_exporter</b></a>
-<br><br>
-<sub>Prometheus exporter for Veritas NetBackup — backup job statistics by type, policy, and status plus storage-unit capacity, with automatic API version detection. Single Go binary</sub>
-<br>
-<sup><i>Veritas · NetBackup · Prometheus · CLI</i></sup>
-<br><br>
-</td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
+<br>
+<a href="https://fjacquet.github.io/pscale_exporter/">
+  <img src="https://img.shields.io/badge/PowerScale-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="pscale_exporter">
+</a>
+<br><br>
+<a href="https://fjacquet.github.io/pscale_exporter/"><b>pscale_exporter</b></a>
+<br><br>
+<sub>Prometheus + OTLP exporter for Dell PowerScale (OneFS) — multi-cluster coverage of cluster, node, protocol, quota, snapshot, and capacity metrics, with CSM-compatible <code>powerscale_</code> naming. Single Go binary</sub>
+<br>
+<sup><i>Dell · PowerScale · Prometheus · CLI</i></sup>
+<br><br>
+</td>
+<td width="33%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/obs_exporter/">
   <img src="https://img.shields.io/badge/ObjectScale-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="obs_exporter">
@@ -325,7 +295,59 @@
 <sup><i>Dell · ObjectScale · Prometheus · CLI</i></sup>
 <br><br>
 </td>
-<td width="50%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
+<br>
+<a href="https://fjacquet.github.io/cee-exporter/">
+  <img src="https://raw.githubusercontent.com/fjacquet/cee-exporter/main/public/favicon.svg" width="64" height="64" alt="cee-exporter">
+</a>
+<br><br>
+<a href="https://fjacquet.github.io/cee-exporter/"><b>cee-exporter</b></a>
+<br><br>
+<sub>Forward Dell PowerStore CEPA audit events as GELF to Graylog or native Windows EventLog — single static Go binary, no dependencies</sub>
+<br>
+<sup><i>Dell · PowerStore · Graylog · CLI</i></sup>
+<br><br>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<br>
+<a href="https://fjacquet.github.io/ppdd_exporter/">
+  <img src="https://img.shields.io/badge/PowerProtect%20DD-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="ppdd_exporter">
+</a>
+<br><br>
+<a href="https://fjacquet.github.io/ppdd_exporter/"><b>ppdd_exporter</b></a>
+<br><br>
+<sub>Prometheus exporter for Dell PowerProtect DD (Data Domain) — one process polls many appliances for capacity, dedup, MTree, and replication metrics. Single static Go binary</sub>
+<br>
+<sup><i>Dell · PowerProtect · Prometheus · CLI</i></sup>
+<br><br>
+</td>
+<td width="33%" align="center" valign="top">
+<br>
+<a href="https://fjacquet.github.io/ppdm_exporter/">
+  <img src="https://img.shields.io/badge/PowerProtect%20DM-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="ppdm_exporter">
+</a>
+<br><br>
+<a href="https://fjacquet.github.io/ppdm_exporter/"><b>ppdm_exporter</b></a>
+<br><br>
+<sub>Prometheus + OTLP exporter for Dell PowerProtect Data Manager — backup activities, asset protection, compliance, and capacity, plus scheduled SLA reports (HTML/PDF/email). Single Go binary</sub>
+<br>
+<sup><i>Dell · PowerProtect · Prometheus · CLI</i></sup>
+<br><br>
+</td>
+<td width="33%" align="center" valign="top">
+<br>
+<a href="https://fjacquet.github.io/nbu_exporter/">
+  <img src="https://img.shields.io/badge/NetBackup-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="nbu_exporter">
+</a>
+<br><br>
+<a href="https://fjacquet.github.io/nbu_exporter/"><b>nbu_exporter</b></a>
+<br><br>
+<sub>Prometheus exporter for Veritas NetBackup — backup job statistics by type, policy, and status plus storage-unit capacity, with automatic API version detection. Single Go binary</sub>
+<br>
+<sup><i>Veritas · NetBackup · Prometheus · CLI</i></sup>
+<br><br>
 </td>
 </tr>
 </table>
