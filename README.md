@@ -7,7 +7,7 @@
 
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/fjacquet)
 [![Open Source](https://img.shields.io/badge/Open-Source-brightgreen?style=for-the-badge&logo=github)](https://github.com/fjacquet)
-[![Tools](https://img.shields.io/badge/Tools-26-0078D4?style=for-the-badge)](https://github.com/fjacquet)
+[![Tools](https://img.shields.io/badge/Tools-27-0078D4?style=for-the-badge)](https://github.com/fjacquet)
 [![Client Side](https://img.shields.io/badge/Client--Side-No%20Telemetry-orange?style=for-the-badge)](https://github.com/fjacquet)
 
 *Click any icon to launch the tool*
@@ -347,6 +347,21 @@
 <sub>Prometheus exporter for Veritas NetBackup — backup job statistics by type, policy, and status plus storage-unit capacity, with automatic API version detection. Single Go binary</sub>
 <br>
 <sup><i>Veritas · NetBackup · Prometheus · CLI</i></sup>
+<br><br>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<br>
+<a href="https://fjacquet.github.io/nsr_exporter/">
+  <img src="https://img.shields.io/badge/NetWorker-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="nsr_exporter">
+</a>
+<br><br>
+<a href="https://fjacquet.github.io/nsr_exporter/"><b>nsr_exporter</b></a>
+<br><br>
+<sub>Prometheus + OTLP exporter for Dell EMC NetWorker — one process polls many backup servers for alerts, clients, jobs, sessions, volumes, and bounded backup-sizing metrics via the NetWorker REST API. Single Go binary</sub>
+<br>
+<sup><i>Dell · NetWorker · Prometheus · CLI</i></sup>
 <br><br>
 </td>
 </tr>
