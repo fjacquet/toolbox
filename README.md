@@ -7,7 +7,7 @@
 
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/fjacquet)
 [![Open Source](https://img.shields.io/badge/Open-Source-brightgreen?style=for-the-badge&logo=github)](https://github.com/fjacquet)
-[![Tools](https://img.shields.io/badge/Tools-27-0078D4?style=for-the-badge)](https://github.com/fjacquet)
+[![Tools](https://img.shields.io/badge/Tools-28-0078D4?style=for-the-badge)](https://github.com/fjacquet)
 [![Client Side](https://img.shields.io/badge/Client--Side-No%20Telemetry-orange?style=for-the-badge)](https://github.com/fjacquet)
 
 *Click any icon to launch the tool*
@@ -362,6 +362,19 @@
 <sub>Prometheus + OTLP exporter for Dell EMC NetWorker — one process polls many backup servers for alerts, clients, jobs, sessions, volumes, and bounded backup-sizing metrics via the NetWorker REST API. Single Go binary</sub>
 <br>
 <sup><i>Dell · NetWorker · Prometheus · CLI</i></sup>
+<br><br>
+</td>
+<td width="33%" align="center" valign="top">
+<br>
+<a href="https://fjacquet.github.io/idrac_exporter/">
+  <img src="https://img.shields.io/badge/iDRAC-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="idrac_exporter">
+</a>
+<br><br>
+<a href="https://fjacquet.github.io/idrac_exporter/"><b>idrac_exporter</b></a>
+<br><br>
+<sub>Prometheus + OTLP exporter for server BMCs (Dell iDRAC, HPE iLO, Lenovo XClarity, Supermicro) over the Redfish API — on-demand multi-target scraping of hardware health, power, thermal, and storage. Single Go binary</sub>
+<br>
+<sup><i>Redfish · BMC · Prometheus · CLI</i></sup>
 <br><br>
 </td>
 </tr>
