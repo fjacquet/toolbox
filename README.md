@@ -377,6 +377,19 @@
 <sup><i>Redfish · BMC · Prometheus · CLI</i></sup>
 <br><br>
 </td>
+<td width="33%" align="center" valign="top">
+<br>
+<a href="https://fjacquet.github.io/pve_exporter/">
+  <img src="https://img.shields.io/badge/Proxmox%20VE-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="pve_exporter">
+</a>
+<br><br>
+<a href="https://fjacquet.github.io/pve_exporter/"><b>pve_exporter</b></a>
+<br><br>
+<sub>Prometheus + OTLP exporter for Proxmox VE — one process polls many nodes/clusters for node, guest (QEMU/LXC), and storage metrics plus HA, replication, subscription, and backup status via the PVE API. Single Go binary</sub>
+<br>
+<sup><i>Proxmox · Virtualization · Prometheus · CLI</i></sup>
+<br><br>
+</td>
 </tr>
 </table>
 
