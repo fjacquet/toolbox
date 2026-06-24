@@ -7,7 +7,7 @@
 
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/fjacquet)
 [![Open Source](https://img.shields.io/badge/Open-Source-brightgreen?style=for-the-badge&logo=github)](https://github.com/fjacquet)
-[![Tools](https://img.shields.io/badge/Tools-28-0078D4?style=for-the-badge)](https://github.com/fjacquet)
+[![Tools](https://img.shields.io/badge/Tools-31-0078D4?style=for-the-badge)](https://github.com/fjacquet)
 [![Client Side](https://img.shields.io/badge/Client--Side-No%20Telemetry-orange?style=for-the-badge)](https://github.com/fjacquet)
 
 *Click any icon to launch the tool*
@@ -22,7 +22,7 @@
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/llmvram/">
   <img src="https://fjacquet.github.io/llmvram/favicon.svg" width="64" height="64" alt="llmvram">
@@ -35,10 +35,10 @@
 <sup><i>LLM · GPU · Local</i></sup>
 <br><br>
 </td>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/vgpu-advisor/">
-  <img src="https://img.shields.io/badge/vGPU-Advisor-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="vGPU Advisor">
+  <img src="assets/icons/vgpu-advisor.png" width="64" height="64" alt="vGPU Advisor">
 </a>
 <br><br>
 <a href="https://fjacquet.github.io/vgpu-advisor/"><b>vGPU Advisor</b></a>
@@ -48,10 +48,10 @@
 <sup><i>NVIDIA · vGPU · Virtualization</i></sup>
 <br><br>
 </td>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://github.com/fjacquet/anki-maker">
-  <img src="https://img.shields.io/badge/Anki-Maker-2C82C9?style=for-the-badge&logo=anki&logoColor=white" alt="Anki Maker">
+  <img src="assets/icons/anki-maker.png" width="64" height="64" alt="Anki Maker">
 </a>
 <br><br>
 <a href="https://github.com/fjacquet/anki-maker"><b>anki-maker</b></a>
@@ -70,7 +70,7 @@
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/netstack/">
   <img src="https://fjacquet.github.io/netstack/favicon-32x32.png" width="64" height="64" alt="NetStack">
@@ -83,7 +83,7 @@
 <sup><i>Dell · Networking · Leaf-Spine</i></sup>
 <br><br>
 </td>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/presizion/">
   <img src="https://raw.githubusercontent.com/fjacquet/presizion/main/public/favicon.svg" width="64" height="64" alt="Presizion">
@@ -96,7 +96,7 @@
 <sup><i>VMware · Sizing · RVTools</i></sup>
 <br><br>
 </td>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/raidy/">
   <img src="https://fjacquet.github.io/raidy/favicon-32x32.png" width="64" height="64" alt="raidy">
@@ -109,9 +109,7 @@
 <sup><i>Storage · RAID</i></sup>
 <br><br>
 </td>
-</tr>
-<tr>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/spec-search/">
   <img src="https://raw.githubusercontent.com/fjacquet/spec-search/main/web/public/favicon.svg" width="64" height="64" alt="Spec Search">
@@ -124,10 +122,12 @@
 <sup><i>SPEC · CPU · Benchmarks</i></sup>
 <br><br>
 </td>
-<td width="33%" align="center" valign="top">
+</tr>
+<tr>
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://store.srv1023035.hstgr.cloud/review">
-  <img src="https://img.shields.io/badge/Store-Predict-0078D4?style=for-the-badge&logo=dell&logoColor=white" alt="StorePredict">
+  <img src="assets/icons/store-predict.png" width="64" height="64" alt="StorePredict">
 </a>
 <br><br>
 <a href="https://store.srv1023035.hstgr.cloud/review"><b>StorePredict</b></a>
@@ -137,10 +137,10 @@
 <sup><i>Dell · Storage · Sizing</i></sup>
 <br><br>
 </td>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/vcf-sizer/">
-  <img src="https://img.shields.io/badge/VCF-Sizer-696CFF?style=for-the-badge&logo=vmware&logoColor=white" alt="VCF Sizer">
+  <img src="assets/icons/vcf-sizer.png" width="64" height="64" alt="VCF Sizer">
 </a>
 <br><br>
 <a href="https://fjacquet.github.io/vcf-sizer/"><b>VCF Sizer</b></a>
@@ -150,12 +150,10 @@
 <sup><i>VMware · VCF · Sizing</i></sup>
 <br><br>
 </td>
-</tr>
-<tr>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://github.com/fjacquet/san-conv/releases">
-  <img src="https://img.shields.io/badge/SAN-Conv-0078D4?style=for-the-badge&logo=cisco&logoColor=white" alt="san-conv">
+  <img src="assets/icons/san-conv.png" width="64" height="64" alt="san-conv">
 </a>
 <br><br>
 <a href="https://github.com/fjacquet/san-conv/releases"><b>san-conv</b></a>
@@ -165,10 +163,10 @@
 <sup><i>Cisco · Brocade · SAN · CLI</i></sup>
 <br><br>
 </td>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/os-sizer/">
-  <img src="https://img.shields.io/badge/OS-Sizer-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="OS Sizer">
+  <img src="assets/icons/os-sizer.png" width="64" height="64" alt="OS Sizer">
 </a>
 <br><br>
 <a href="https://fjacquet.github.io/os-sizer/"><b>OS Sizer</b></a>
@@ -178,7 +176,9 @@
 <sup><i>Red Hat · OpenShift · Sizing</i></sup>
 <br><br>
 </td>
-<td width="33%" align="center" valign="top">
+</tr>
+<tr>
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/vsizer/">
   <img src="https://fjacquet.github.io/vsizer/favicon.svg" width="64" height="64" alt="vsizer">
@@ -191,9 +191,7 @@
 <sup><i>VMware · RVTools · Reporting</i></sup>
 <br><br>
 </td>
-</tr>
-<tr>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/vatlas/">
   <img src="https://fjacquet.github.io/vatlas/favicon.svg" width="64" height="64" alt="vatlas">
@@ -206,7 +204,20 @@
 <sup><i>VMware · RVTools · Reporting · PWA</i></sup>
 <br><br>
 </td>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
+<br>
+<a href="https://fjacquet.github.io/patlas/">
+  <img src="https://fjacquet.github.io/patlas/favicon.svg" width="64" height="64" alt="patlas">
+</a>
+<br><br>
+<a href="https://fjacquet.github.io/patlas/"><b>patlas</b></a>
+<br><br>
+<sub>Drop Proxmox VE reports and explore a navigable atlas of your Proxmox estate — dashboard, inventory, capacity, snapshot sprawl, storage content, and cluster health — then export a shareable HTML report + PowerPoint deck. Fully client-side, installable PWA</sub>
+<br>
+<sup><i>Proxmox · Reporting · PWA</i></sup>
+<br><br>
+</td>
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/elk-sizer/">
   <img src="https://fjacquet.github.io/elk-sizer/favicon.svg" width="64" height="64" alt="ELK Sizer">
@@ -228,10 +239,10 @@
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/pflex_exporter/">
-  <img src="https://img.shields.io/badge/PowerFlex-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="pflex_exporter">
+  <img src="assets/icons/pflex_exporter.png" width="64" height="64" alt="pflex_exporter">
 </a>
 <br><br>
 <a href="https://fjacquet.github.io/pflex_exporter/"><b>pflex_exporter</b></a>
@@ -241,10 +252,10 @@
 <sup><i>Dell · PowerFlex · Prometheus · CLI</i></sup>
 <br><br>
 </td>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/pmax_exporter/">
-  <img src="https://img.shields.io/badge/PowerMax-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="pmax_exporter">
+  <img src="assets/icons/pmax_exporter.png" width="64" height="64" alt="pmax_exporter">
 </a>
 <br><br>
 <a href="https://fjacquet.github.io/pmax_exporter/"><b>pmax_exporter</b></a>
@@ -254,10 +265,10 @@
 <sup><i>Dell · PowerMax · Prometheus · CLI</i></sup>
 <br><br>
 </td>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/pstore_exporter/">
-  <img src="https://img.shields.io/badge/PowerStore-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="pstore_exporter">
+  <img src="assets/icons/pstore_exporter.png" width="64" height="64" alt="pstore_exporter">
 </a>
 <br><br>
 <a href="https://fjacquet.github.io/pstore_exporter/"><b>pstore_exporter</b></a>
@@ -267,12 +278,10 @@
 <sup><i>Dell · PowerStore · Prometheus · CLI</i></sup>
 <br><br>
 </td>
-</tr>
-<tr>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/pscale_exporter/">
-  <img src="https://img.shields.io/badge/PowerScale-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="pscale_exporter">
+  <img src="assets/icons/pscale_exporter.png" width="64" height="64" alt="pscale_exporter">
 </a>
 <br><br>
 <a href="https://fjacquet.github.io/pscale_exporter/"><b>pscale_exporter</b></a>
@@ -282,10 +291,12 @@
 <sup><i>Dell · PowerScale · Prometheus · CLI</i></sup>
 <br><br>
 </td>
-<td width="33%" align="center" valign="top">
+</tr>
+<tr>
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/obs_exporter/">
-  <img src="https://img.shields.io/badge/ObjectScale-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="obs_exporter">
+  <img src="assets/icons/obs_exporter.png" width="64" height="64" alt="obs_exporter">
 </a>
 <br><br>
 <a href="https://fjacquet.github.io/obs_exporter/"><b>obs_exporter</b></a>
@@ -295,7 +306,7 @@
 <sup><i>Dell · ObjectScale · Prometheus · CLI</i></sup>
 <br><br>
 </td>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/cee-exporter/">
   <img src="https://raw.githubusercontent.com/fjacquet/cee-exporter/main/public/favicon.svg" width="64" height="64" alt="cee-exporter">
@@ -308,12 +319,10 @@
 <sup><i>Dell · PowerStore · Graylog · CLI</i></sup>
 <br><br>
 </td>
-</tr>
-<tr>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/ppdd_exporter/">
-  <img src="https://img.shields.io/badge/PowerProtect%20DD-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="ppdd_exporter">
+  <img src="assets/icons/ppdd_exporter.png" width="64" height="64" alt="ppdd_exporter">
 </a>
 <br><br>
 <a href="https://fjacquet.github.io/ppdd_exporter/"><b>ppdd_exporter</b></a>
@@ -323,10 +332,10 @@
 <sup><i>Dell · PowerProtect · Prometheus · CLI</i></sup>
 <br><br>
 </td>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/ppdm_exporter/">
-  <img src="https://img.shields.io/badge/PowerProtect%20DM-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="ppdm_exporter">
+  <img src="assets/icons/ppdm_exporter.png" width="64" height="64" alt="ppdm_exporter">
 </a>
 <br><br>
 <a href="https://fjacquet.github.io/ppdm_exporter/"><b>ppdm_exporter</b></a>
@@ -336,10 +345,12 @@
 <sup><i>Dell · PowerProtect · Prometheus · CLI</i></sup>
 <br><br>
 </td>
-<td width="33%" align="center" valign="top">
+</tr>
+<tr>
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/nbu_exporter/">
-  <img src="https://img.shields.io/badge/NetBackup-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="nbu_exporter">
+  <img src="assets/icons/nbu_exporter.png" width="64" height="64" alt="nbu_exporter">
 </a>
 <br><br>
 <a href="https://fjacquet.github.io/nbu_exporter/"><b>nbu_exporter</b></a>
@@ -349,12 +360,10 @@
 <sup><i>Veritas · NetBackup · Prometheus · CLI</i></sup>
 <br><br>
 </td>
-</tr>
-<tr>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/nsr_exporter/">
-  <img src="https://img.shields.io/badge/NetWorker-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="nsr_exporter">
+  <img src="assets/icons/nsr_exporter.png" width="64" height="64" alt="nsr_exporter">
 </a>
 <br><br>
 <a href="https://fjacquet.github.io/nsr_exporter/"><b>nsr_exporter</b></a>
@@ -364,10 +373,10 @@
 <sup><i>Dell · NetWorker · Prometheus · CLI</i></sup>
 <br><br>
 </td>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/idrac_exporter/">
-  <img src="https://img.shields.io/badge/iDRAC-Exporter-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="idrac_exporter">
+  <img src="assets/icons/idrac_exporter.png" width="64" height="64" alt="idrac_exporter">
 </a>
 <br><br>
 <a href="https://fjacquet.github.io/idrac_exporter/"><b>idrac_exporter</b></a>
@@ -375,6 +384,34 @@
 <sub>Prometheus + OTLP exporter for server BMCs (Dell iDRAC, HPE iLO, Lenovo XClarity, Supermicro) over the Redfish API — on-demand multi-target scraping of hardware health, power, thermal, and storage. Single Go binary</sub>
 <br>
 <sup><i>Redfish · BMC · Prometheus · CLI</i></sup>
+<br><br>
+</td>
+<td width="25%" align="center" valign="top">
+<br>
+<a href="https://fjacquet.github.io/pve_exporter/">
+  <img src="assets/icons/pve_exporter.png" width="64" height="64" alt="pve_exporter">
+</a>
+<br><br>
+<a href="https://fjacquet.github.io/pve_exporter/"><b>pve_exporter</b></a>
+<br><br>
+<sub>Prometheus + OTLP exporter for Proxmox VE — multi-cluster coverage of cluster, node, guest (QEMU/LXC), storage, replication, backup, subscription, and quorum metrics via the PVE REST API. Single Go binary</sub>
+<br>
+<sup><i>Proxmox · Prometheus · CLI</i></sup>
+<br><br>
+</td>
+</tr>
+<tr>
+<td width="25%" align="center" valign="top">
+<br>
+<a href="https://fjacquet.github.io/ppdm2jira/">
+  <img src="assets/icons/ppdm2jira.png" width="64" height="64" alt="ppdm2jira">
+</a>
+<br><br>
+<a href="https://fjacquet.github.io/ppdm2jira/"><b>ppdm2jira</b></a>
+<br><br>
+<sub>One-way integration that polls Dell PowerProtect Data Manager for critical/warning alerts and failed backup jobs, then opens or updates routed, deduplicated Jira issues traceable back to the PPDM event. PowerShell module</sub>
+<br>
+<sup><i>Dell · PowerProtect · Jira · PowerShell</i></sup>
 <br><br>
 </td>
 </tr>
@@ -386,7 +423,7 @@
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/360gantt/">
   <img src="https://raw.githubusercontent.com/fjacquet/360gantt/main/public/favicon.svg" width="64" height="64" alt="360 Gantt">
@@ -399,7 +436,7 @@
 <sup><i>Planning · Gantt</i></sup>
 <br><br>
 </td>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/converty/en/">
   <img src="https://fjacquet.github.io/converty/favicon.svg" width="64" height="64" alt="Converty">
@@ -412,10 +449,10 @@
 <sup><i>Conversion · i18n</i></sup>
 <br><br>
 </td>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/icons/">
-  <img src="https://img.shields.io/badge/React-Icons-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Icons">
+  <img src="assets/icons/icons.png" width="64" height="64" alt="Icons">
 </a>
 <br><br>
 <a href="https://fjacquet.github.io/icons/"><b>Icons</b></a>
