@@ -181,7 +181,7 @@
 <td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/vsizer/">
-  <img src="https://fjacquet.github.io/vsizer/favicon.svg" width="64" height="64" alt="vsizer">
+  <img src="assets/icons/vsizer.png" width="64" height="64" alt="vsizer">
 </a>
 <br><br>
 <a href="https://fjacquet.github.io/vsizer/"><b>vsizer</b></a>
@@ -194,7 +194,7 @@
 <td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/vatlas/">
-  <img src="https://fjacquet.github.io/vatlas/favicon.svg" width="64" height="64" alt="vatlas">
+  <img src="assets/icons/vatlas.png" width="64" height="64" alt="vatlas">
 </a>
 <br><br>
 <a href="https://fjacquet.github.io/vatlas/"><b>vatlas</b></a>
@@ -207,7 +207,7 @@
 <td width="25%" align="center" valign="top">
 <br>
 <a href="https://fjacquet.github.io/patlas/">
-  <img src="https://fjacquet.github.io/patlas/favicon.svg" width="64" height="64" alt="patlas">
+  <img src="assets/icons/patlas.png" width="64" height="64" alt="patlas">
 </a>
 <br><br>
 <a href="https://fjacquet.github.io/patlas/"><b>patlas</b></a>
